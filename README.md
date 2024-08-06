@@ -47,8 +47,9 @@ Our RNN-LSTM model boasts the following structure:
 ## 🚀 Getting Started
 
 1. Clone this repository:
+'''bash
 git clone https://github.com/yourusername/IMDB-Review-Classification-with-RNN-LSTM.git
-
+'''
 
 ## 📈 Results
 
