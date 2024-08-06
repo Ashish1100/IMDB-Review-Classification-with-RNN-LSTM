@@ -1,1 +1,1 @@
-# IMDB-Review-Classification-with-RNN-LSTM
+# IMDB Review Classification with RNN-LSTM
