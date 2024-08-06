@@ -1,4 +1,4 @@
-g# 🎬 IMDB Review Sentiment Analysis with RNN-LSTM
+# 🎬 IMDB Review Classification/Sentiment Analysis with RNN-LSTM
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)
