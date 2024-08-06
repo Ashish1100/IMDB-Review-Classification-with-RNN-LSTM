@@ -1,4 +1,4 @@
-# 🎬 IMDB Review Sentiment Analysis with RNN-LSTM
+g# 🎬 IMDB Review Sentiment Analysis with RNN-LSTM
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)
@@ -47,9 +47,9 @@ Our RNN-LSTM model boasts the following structure:
 ## 🚀 Getting Started
 
 1. Clone this repository:
-'''bash
+```bash
 git clone https://github.com/yourusername/IMDB-Review-Classification-with-RNN-LSTM.git
-'''
+```
 
 ## 📈 Results
 
